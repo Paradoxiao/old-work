@@ -1,0 +1,23 @@
+Sample Input
+10
+abc
+bc
+aca
+ca
+c
+aac
+aba
+bc
+da
+ba
+Sample Output
+aac
+aba
+abc
+aca
+ba
+bc
+bc
+c
+ca
+da
