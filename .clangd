@@ -3,4 +3,4 @@ Hover:
 Diagnostics:
   UnusedIncludes: Strict
 CompileFlags:
-  Add: [ -Wall, -std=c++23 ]
+  Add: [ -Wall, -std=c++20 ]
